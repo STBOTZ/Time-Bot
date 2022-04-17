@@ -1,8 +1,8 @@
-# Time Bot [@TimeTellerBot](https://t.me/TimeTellerBot)
+# Time Bot [@TimeTellerBot](https://t.me/STBOTZ)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/TimeBot"><img src="https://telegra.ph/file/7d71df596dd30410a7171.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/STBOTZ/Time-Bot"><img src="https://telegra.ph/file/7d71df596dd30410a7171.jpg" width="2000"></a></p>
 
 Telegram bot to show time of different places in different ways.
 
@@ -12,7 +12,7 @@ Telegram bot to show time of different places in different ways.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/TimeBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STBOTZ/Time-Bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to show time of different places in different ways.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/TimeBot
+   git clone https://github.com/STBOTZ/TimeBot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -73,9 +73,9 @@ Telegram bot to show time of different places in different ways.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@StarkBots](https://t.me/STBOTZ)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@StarkBotsChat](https://t.me/ST_BOTZ)
 
 ## :)
 
@@ -83,4 +83,4 @@ Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/STBOTZ)
