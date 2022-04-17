@@ -1,4 +1,4 @@
-# Time Bot [@TimeTellerBot](https://t.me/STBOTZ)
+# Time Bot [@ST_TIMETELLERBOT](https://t.me/ST_TIMETELLERBOT)
 
 > A star ⭐ from you means a lot to us!
 
