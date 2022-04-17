@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/TimeBot",
+  "repository": "https://github.com/STBOTZ/Time-Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
