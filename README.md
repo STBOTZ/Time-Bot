@@ -73,9 +73,9 @@ Telegram bot to show time of different places in different ways.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/STBOTZ)
+Channel :- [@STBOTZ](https://t.me/STBOTZ)
 
-Group Chat :- [@StarkBotsChat](https://t.me/ST_BOTZ)
+Group Chat :- [@ST_BOTZ](https://t.me/ST_BOTZ)
 
 ## :)
 
